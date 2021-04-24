@@ -1,0 +1,24 @@
+{
+  "name": "express-auto-async-handler",
+  "version": "0.0.1",
+  "description": "auto register async handlers to express routers",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "express",
+    "handlers",
+    "async handlers"
+  ],
+  "scripts": {},
+  "author": "Nir winkler <madvinking@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Madvinking/express-auto-async-handler.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
