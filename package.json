@@ -1,6 +1,6 @@
 {
   "name": "express-auto-async-handler",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "auto register async handlers to express routers",
   "main": "index.js",
   "files": [
