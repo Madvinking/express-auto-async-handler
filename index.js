@@ -16,7 +16,7 @@ const transformToAsync = app => {
     });
 
   }
-  start(app._router.stack);
+  start(app.router.stack);
 
   return app;
 }
